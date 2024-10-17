@@ -1,6 +1,6 @@
 from machine import WDT
 import time
-def hui():
+def doit():
     c=1
     wdt=WDT()
     while True:
